@@ -4,3 +4,12 @@
       font-size: x-large;
       background-color: lightgreen;
     }
+    
+body {
+  background-color: rgb(243, 204, 225);
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
