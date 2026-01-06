@@ -1,5 +1,5 @@
 
-  const app2 = Vue.createApp({
+  const app2 = Vue.createApp2({
    data() {
     return {
       manyFoods: [
